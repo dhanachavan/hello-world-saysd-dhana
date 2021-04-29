@@ -1,2 +1,2 @@
-# hello-world-saysd-dhana
+# hello-world-says-dhana
 Hello World project by dhanachavan
